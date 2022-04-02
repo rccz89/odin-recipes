@@ -1,0 +1,22 @@
+body{
+    background-color: #F5F5F5;
+    font-size: 25px;
+    margin: 50px 0px 100px 20px;
+    font-family: sans-serif; 
+
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+p, ol, ul{
+    width: 500px;
+}
+h1,h2,h3, .section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1, h2, h3{
+    color: #0C611C;
+}
